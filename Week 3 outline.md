@@ -128,3 +128,33 @@ What emerges is that Trollope is chiefly concerned with two criteria:
 ## Rachel returns Week 2 writing
 ## Rachel checks in about signups and version control
 
+#### February 15: optional but recommended Zotero and Paper Machines
+open lab, McCabe Computer Classroom, 1-4 pm
+
+#### February 17: narrative and novelists' note-taking
+some topics: bildungsroman, Dickens’s life and work, Victorian
+childhoods, literacy, education, emigration
+
++ Charles Dickens, *Our Mutual Friend*  (1864-5), first third
++ Mikhail Bakhtin, from "Discourse in the Novel," 259-331
++ Dorrit Cohn, summary handout and selection from *Transparent Minds*
++ [Dickens Journals Online](http://www.djo.org.uk/) essays on Dickens's
+magazine All the Year Round volumes
++ selections from Sylvère Monod’s *Charles Dickens, Novelist* (1953)
++ selections from  John Butt and Kathleen Tillottson, *Dickens at Work*
++ selections from Harry Stone ed., *Dickens’s Working Notes for His
+Novels*
++ Simon Reader, [“Victorian Notebooks: Source and
+Method”](https://www.academia.edu/5011463/
+Victorian_Notebooks_Source_and_Method)
++ Elson, Dames, McKeown, [Extracting Social Networks from Literary
+Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-
+ElsonDamesMcKeown.pdf)
++ complete before class: install Zotero and Paper Machines
++ complete before class: brief post to our Known about citation
+management
++ in-class workshop: note-taking systems (Evernote, NVol, etc); tagging,
+aggregating, sharing
++ in-class workshop: data viz discussion with PJ: visualizing OMF (notes
+and numbers?)
+
