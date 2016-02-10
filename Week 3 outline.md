@@ -1,8 +1,10 @@
 ## What Makes a Good Novel? 
 
 > “In this chapter I will venture to name a few successful novelists of my own time, with whose works I am acquainted; and will endeavour to point whence their success has come, and why they have failed when there has been failure” (Trollope 243).
-[insert chart]
-[insert graphic]
+! [What makes a good novel?] (https://github.com/vic-sem-2016/outlines/blob/master/week%203%20graphic.png)
+! [How do other writers measure up?] (https://github.com/vic-sem-2016/outlines/blob/master/week%203%20table.png)
+
+
 What emerges is that Trollope is chiefly concerned with two criteria:
 
 * Is the novel realistic (or “human”)?
@@ -12,7 +14,8 @@ What emerges is that Trollope is chiefly concerned with two criteria:
 ## Style 
 * What does Trollope believe is important to the style of the novel? Does Trollope’s own style  conform to his expectations?
 * How does authorial intrusion affect realism and his style? 
-            *  Irony and allusion: **Corey’s close reading**
+            *  Irony and allusion: 
+            *  **Corey’s close reading**
 	* The Reality Effect
 
  		*  “There should be no episodes in a novel. Every sentence, every word, through all     those pages, should tend to the telling of the story.”
@@ -64,8 +67,9 @@ What emerges is that Trollope is chiefly concerned with two criteria:
 
 ### Religion
 
-* ** RJ’s close reading + RJ’s seminar paper** 
-	*“In the formalism of power to which Trollope reduces his church, theology comes down to an ad hoc allusion or two,” as though only in the most perfunctory fashion to motivate the device that is thereby laid bare.” (Miller 116)
+*  **RJ’s close reading** + **RJ’s seminar paper**  
+
+* “In the formalism of power to which Trollope reduces his church, theology comes down to an ad hoc allusion or two,” as though only in the most perfunctory fashion to motivate the device that is thereby laid bare.” (Miller 116)
 * What relationship does the church have to other institutions in Barchester Towers? What relationship do the clergymen have to laypeople?
 	* “Reducing religion to an institution like any other, the novel achieves a compelling insight into the typical ideological process that process that is thus reversed: the self-promotion of an institution to the status of religion.” (Miller 117) 
 * “...the sacred has only to put forth its claim and–like any other pretension in comedy–it is brought down to earth” (Miller 117)
