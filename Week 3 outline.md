@@ -1,8 +1,8 @@
 ## What Makes a Good Novel? 
 
 > “In this chapter I will venture to name a few successful novelists of my own time, with whose works I am acquainted; and will endeavour to point whence their success has come, and why they have failed when there has been failure” (Trollope 243).
-! [What makes a good novel?] (https://github.com/vic-sem-2016/outlines/blob/master/week%203%20graphic.png)
-! [How do other writers measure up?] (https://github.com/vic-sem-2016/outlines/blob/master/week%203%20table.png)
+![What makes a good novel?](https://github.com/vic-sem-2016/outlines/blob/master/week%203%20graphic.png)
+![How do other writers measure up?](https://github.com/vic-sem-2016/outlines/blob/master/week%203%20table.png)
 
 
 What emerges is that Trollope is chiefly concerned with two criteria:
