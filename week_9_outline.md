@@ -1,6 +1,10 @@
 # Week 9: Bouvard and Pécuchet
 
+Anna and Nithya
+
 ![Cover of Nichols edition of translated B and P](https://github.com/vic-sem-2016/outlines/blob/master/B_and_P.png)
+
+### Very quick discussion on using library catalogs and databases for SHS paper research
 
 ### Realism
 
@@ -13,7 +17,7 @@
 + **Luke’s summary of Ferguson**
 + What is the nature of realism in Bouvard and Pécuchet? Do you agree with Ferguson that this is not a typically realist novel? Or rather, how does this book revise some of the canonical theories of realism we have read about? What’s the nature of characterization and plot in the novel?
 
-> “In presenting both the assemblage of the archive and its reception, Pierrot, Mouchard, and Neefs note that Flaubert establishes a kind of "equality between author and reader" and renders "the reality of the author almost as problematic as that of the reader." For in the projected ending—in which Bouvard and Pécuchet simply sit at a common desk copying out a host of different kinds of materials Flaubert aims at a literature that is so purely descriptive as to amount only to the mere publication of what already exists.This would be a literature that never corrects its protagonists, never brings them news from afar to qualify the things that those characters think they know here. It would be a literature as pure as the folk tales of the oral tradition are pure — not in being authentic but in being available to a host of different speakers in positions of absolute equality and equivalence with one another.”
+> “In presenting both the assemblage of the archive and its reception, Pierrot, Mouchard, and Neefs note that Flaubert establishes a kind of "equality between author and reader" and renders "the reality of the author almost as problematic as that of the reader." For in the projected —in which Bouvard and Pécuchet simply sit at a common desk copying out a host of different kinds of materials Flaubert aims at a literature that is so purely descriptive as to amount only to the mere publication of what already exists.This would be a literature that never corrects its protagonists, never brings them news from afar to qualify the things that those characters think they know here. It would be a literature as pure as the folk tales of the oral tradition are pure — not in being authentic but in being available to a host of different speakers in positions of absolute equality and equivalence with one another.”
 
 + Pull back [Cohn on narrated monologue, Bakhtin on heteroglossia] (https://github.com/vic-sem-2016/outlines/blob/master/week_4_outline.md), if anyone feels so inclined.
 + Does Flaubert’s lack of narrated monologue and interiority create equality in his narrative, unlike in Hard Cash, where only some characters are afforded the luxury of voice?
@@ -38,6 +42,10 @@
 	+ “Many times it is necessary that the reader may believe that they will change their life and environment.”
 	+ “There is a mystery below where the reader should understand nothing.”
  	+ To what extent do his notes provide evidence that there is an ideology underlying description, even if it isn’t explicit to the reader? How do an author’s notes disrupt Lukacs’ idea of description as “pure”?
+ 	+ comparing notes on the end of ch 10:
+ 	http://flaubert.univ-rouen.fr/jet/public/trans.php?corpus=pecuchet&id=8996
+ 	http://flaubert.univ-rouen.fr/jet/public/trans.php?corpus=pecuchet&id=8943
+ 	http://flaubert.univ-rouen.fr/jet/public/trans.php?corpus=pecuchet&id=8998
 
 ![Elaborate Note-Taking System](https://github.com/vic-sem-2016/outlines/blob/master/Week%209%20Cartoon.jpg)
 
@@ -68,6 +76,12 @@ Return to your experience of reading the book — did you feel overloaded by rea
 
 + What is the point? Our vision of the artist — do you need to suffer (via taking copious notes and doing a ton of research) to write a realist novel?
 + Yumi’s point about authorial intention last week — we don’t need to limit ourselves to authorial intent, of course, but the idea that we shouldn’t think about the author’s intention at all is perhaps produced by the notion that Poovey talks about (that the novel is and should be treated just as aesthetic)
+
+### PJ visits briefly, 4 pm
+
++ Talk about visualizing references to money in a corpus of Victorian novels
+
++ PJ fields any questions we have about creating Barsetshire data for him
 
 ### Dictionary of Accepted Ideas
 
