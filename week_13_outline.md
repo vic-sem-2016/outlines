@@ -22,19 +22,20 @@
 > One morning, some weeks after her arrival at Lowick, Dorothea—but why always Dorothea? Was her point of view the only possible one with regard to this marriage? I protest against all our interest, all our effort at understanding being given to the young skins that look blooming in spite of trouble; for these too will get faded, and will know the older and more eating griefs which we are helping to neglect. (278)
 
 + Types / [classification](https://github.com/adriobi/firstrepo/blob/master/Obiols_Foucault_CritSum.docx)
-+ Corey’s Paper
-+ Kurnick on Dorothea’s turning “her small allowance of knowledge into principles” - reminiscent of Eliot’s deductive practices?
-+ Rosamond’s “playing parts”
+ + Corey’s Paper
+ + Kurnick on Dorothea’s turning “her small allowance of knowledge into principles” - reminiscent of Eliot’s deductive practices?
+ + Rosamond’s “playing parts”
 > “‘If I loved, I should love at once and without change,’ said Rosamond, with a great sense of being a romantic heroine, and playing the part prettily.” (297)
-+ History and scale
-+ Prelude
+ + History and scale
+ + Prelude
 > “I at least have so much to do in unraveling certain human lots, and seeing how they were woven and interwoven, that all the light I can command must be concentrated on this particular web, and not dispersed over that tempting range of relevancies called the universe.” (141)
 > “whatever has been or is to be narrated by me about low people, may be ennobled by being considered a parable; so that if any bad habits and ugly consequences are brought into view, the reader may have the relief of regarding them as not more than figuratively ungenteel, and may feel himself virtually in company with persons of some style.  Thus while I tell the truth about loobies, my reader's imagination need not be entirely excluded from an occupation with lords; and the petty sums which any bankrupt of high standing would be sorry to retire upon, may be lifted to the level of high commercial transactions by the inexpensive addition of proportional ciphers.”  (341)
-+ 393-394 
-+ [Natural History of German Life?] (https://github.com/vic-sem-2016/outlines/blob/master/week_12_outline.md#social-classes-and-class-mobility) Difference from Mill on the Floss? Why did Eliot wait until now to use such an instance?
-+ Microscopic / telescopic vision
+ + 393-394 
+ + [Natural History of German Life?] (https://github.com/vic-sem-2016/outlines/blob/master/week_12_outline.md#social-classes-and-class-mobility) Difference from Mill on the Floss? Why did Eliot wait until now to use such an instance?
+ + Microscopic / telescopic vision
 > “Even with a microscope directed on a water-drop we find ourselves making interpretations which turn out to be rather coarse; for whereas under a weak lens you may seem to see a creature exhibiting an active voracity into which other smaller creatures actively play as if they were so many animated tax-pennies, a stronger lens reveals to you certain tiniest hairlets which make vortices for these victims while the swallower waits passively at his receipt of custom.  In this way, metaphorically speaking, a strong lens applied to Mrs. Cadwallader's match-making will show a play of minute causes producing what may be called thought and speech vortices to bring her the sort of food she needed.” (59-60)
-+ Rome episode: 
+ + Rome episode: 
+
 > “Ruins and basilicas, palaces and colossi, set in the midst of a sordid present, where all that was living and warm-blooded seemed sunk in the deep degeneracy of a superstition divorced from reverence; the dimmer but yet eager Titanic life gazing and struggling on walls and ceilings; the long vistas of white forms whose marble eyes seemed to hold the monotonous light of an alien world: all this vast wreck of ambitious ideals, sensuous and spiritual, mixed confusedly with the signs of breathing forgetfulness and degradation, at first jarred her as with an electric shock, and then urged themselves on her with that ache belonging to a glut of confused ideas which check the flow of emotion.” (193)
 > C: “Rome is an unsettling graveyard of broken forms and ruined structures, an uneven grid of knowledge and the bleached proof of exhausted organization that provides the perfect setting (significantly removed from Middlemarch) for her disillusion.” 
  + Kurnick 591-592
