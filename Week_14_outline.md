@@ -56,6 +56,8 @@
  + How novel imagines lifespans, experience of reading
  
   + serialization 
+  
+  + Though published in 1870, *Middlemarch* is set in 1830 - Eliot’s (and presumably some readers’) childhood. Why the historical distance? What the effect of narrative present and readerly present?
 
 + Think about the novel and sympathy - through the semester?  
 
@@ -150,6 +152,7 @@
 
 + **Luke’s close reading**
 
+
 #### Middlemarch (the place) 
 
 + Personification of Middlemarch [(back to Week 13)](https://github.com/vic-sem-2016/outlines/blob/master/week_13_outline.md#realism)
@@ -157,6 +160,7 @@
  > Good Middlemarch families were of course not going to change their doctor without reason shown… 
 
  > Widgeon’s Purifying Pills, an esteemed Middlemarch medicine
+ 
 
 ### Scale 
 
