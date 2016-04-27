@@ -14,11 +14,11 @@
 
 + Why does Eliot use “prelude” and “finale” in her novel rather than “preface” and “epilogue?” 
 
-+ How might Poovey’s account of the Barchester series square with the totalized single novel of *Middlemarch*? (Poovey from Week 2)[https://github.com/vic-sem-2016/outlines/blob/master/week_2_outline.md#poovey-2011-we-have-lots-of-questions-here-because-there-are-lots-of-interesting-applications-to-trollope-and-which-tie-together-all-of-our-discussion-of-realism]
++ How might Poovey’s account of the Barchester series square with the totalized single novel of *Middlemarch*? [Poovey from Week 2](https://github.com/vic-sem-2016/outlines/blob/master/week_2_outline.md#poovey-2011-we-have-lots-of-questions-here-because-there-are-lots-of-interesting-applications-to-trollope-and-which-tie-together-all-of-our-discussion-of-realism)
 
-+ (thinking back to the beginning and ending of *The Mill on the Floss*)[https://github.com/vic-sem-2016/outlines/blob/master/week_12_outline.md#close-read-the-opening] 
++ [thinking back to the beginning and ending of *The Mill on the Floss*](https://github.com/vic-sem-2016/outlines/blob/master/week_12_outline.md#close-read-the-opening) 
 
-+ how might we think about the different uses of the web metaphor that culminate in the ending? How have (previous seminars thought about it?)[https://github.com/vic-sem-2015/outlines/blob/master/week_14_outline.md#webs----more-untangling]
++ how might we think about the different uses of the web metaphor that culminate in the ending? How have [previous seminars thought about it?](https://github.com/vic-sem-2015/outlines/blob/master/week_14_outline.md#webs----more-untangling)
 
 #### Realism
 
@@ -29,10 +29,10 @@
  > Certainly those determining acts of her life were not ideally beautiful. They were the mixed result of young and noble impulse struggling amidst the conditions of an imperfect social state, in which great feelings will often take the aspect of error, and great faith the aspect of illusion. For there is no creature whose inward being is so strong that it is not greatly determined by what lies outside it. A new Theresa will hardly have the opportunity of reforming a conventual life, any more than a new Antigone will spend her heroic piety in daring all for the sake of a brother's burial: the medium in which their ardent deeds took shape is forever gone. But we insignificant people with our daily words and acts are preparing the lives of many Dorotheas, some of which may present a far sadder sacrifice than that of the Dorothea whose story we know.
  	Her finely touched spirit had still its fine issues, though they were not widely visible. Her full nature, like that river of which Cyrus broke the strength, spent itself in channels which had no great name on the earth. But the effect of her being on those around her was incalculably diffusive: for the growing good of the world is partly dependent on unhistoric acts; and that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs. (838)
 
-+ Semiotics / (Barthes from week 2)[https://github.com/vic-sem-2016/outlines/blob/master/week_2_outline.md#barthes-1968----anna-summarized] (Barthes from week TWO LINKS - reality effect and preparation
-(Barthes - Preparation)[https://www.dropbox.com/home/Vic_sem_2016/Week%209/week%209%20reading?preview=Barthes%2C+Preparation%2C+part+1.pdf] [https://www.dropbox.com/home/Vic_sem_2016/Week%209/week%209%20reading?preview=Barthes%2C+Preparation%2C+part+2.pdf] 
++ Semiotics / [Barthes discussion from week 2](https://github.com/vic-sem-2016/outlines/blob/master/week_2_outline.md#barthes-1968----anna-summarized) (Barthes from week TWO LINKS - reality effect and preparation)
+[Barthes - Preparation](https://www.dropbox.com/home/Vic_sem_2016/Week%209/week%209%20reading?preview=Barthes%2C+Preparation%2C+part+1.pdf) [and](https://www.dropbox.com/home/Vic_sem_2016/Week%209/week%209%20reading?preview=Barthes%2C+Preparation%2C+part+2.pdf) 
 
-+ (Week 13 Lydgate) [https://github.com/vic-sem-2016/outlines/blob/master/week_13_outline.md#literacy-language-representation--relationship-to-knowledge]
++ [Week 13 on Lydgate](https://github.com/vic-sem-2016/outlines/blob/master/week_13_outline.md#literacy-language-representation--relationship-to-knowledge)
 
  > “Or surely all must admit that a man may be puffed and belauded, envied, ridiculed, counted upon as a tool and fallen in love with, or at least selected as a future husband, and yet remain virtually unknown—known merely as a **cluster of signs** for his neighbors' false suppositions.” (142)
 
@@ -99,7 +99,7 @@
 
 + Mr. Brooke’s speech (502-503)
 
-+ Denotative (like Freedgood and Nithya’s summary from Week 12?)[https://www.dropbox.com/home/Vic_sem_2016/week%2012/week%2012%20writing?preview=Freedgood_Schmitt_synopsis_Nithya.pdf]
++ Denotative [like Freedgood and Nithya’s summary from Week 12?](https://www.dropbox.com/home/Vic_sem_2016/week%2012/week%2012%20writing?preview=Freedgood_Schmitt_synopsis_Nithya.pdf)
 
 #### Realism
 
@@ -140,11 +140,11 @@
  
  + Bulstrode as a node in the network
  
- + !(Relationship map)[http://i290.photobucket.com/albums/ll252/Nickelini/MiddlemarchRelationshipMap.jpg] 
+ + ![Relationship map](http://i290.photobucket.com/albums/ll252/Nickelini/MiddlemarchRelationshipMap.jpg)
  
- + another (collection of Middlemarch relationship maps)[https://courses.swarthmore.edu/spring2013/engl111/2013/04/08/middlemarch-relationship-map/] from the (Victorian Novel Research Seminar 2013)[https://courses.swarthmore.edu/spring2013/engl111/about/]
+ + another [collection of Middlemarch relationship maps](https://courses.swarthmore.edu/spring2013/engl111/2013/04/08/middlemarch-relationship-map/) from the [Victorian Novel Research Seminar 2013](https://courses.swarthmore.edu/spring2013/engl111/about/)
  
- + and an interesting new paper on (modeling evolving character relationships)[http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12408]
+ + and an interesting new paper on [modeling evolving character relationships](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12408)
  
  + non-linearity
 
@@ -152,7 +152,7 @@
 
 #### Middlemarch (the place) 
 
-+ Personification of Middlemarch (back to Week 13)[link to w13 outline]
++ Personification of Middlemarch [(back to Week 13)](https://github.com/vic-sem-2016/outlines/blob/master/week_13_outline.md#realism)
 
  > Good Middlemarch families were of course not going to change their doctor without reason shown… 
 
@@ -174,7 +174,7 @@
   
  + How much of the action actually takes place in Middlemarch? Outside of it?
  
-  + !(Map)[http://static1.squarespace.com/static/551d9948e4b04d1d14b88825/551f008de4b0adb69866a03a/551f00d4e4b09c90f949adde/1429199830826/MAP-Web.jpg?format=2500w]
+  + ![Map](http://static1.squarespace.com/static/551d9948e4b04d1d14b88825/551f008de4b0adb69866a03a/551f00d4e4b09c90f949adde/1429199830826/MAP-Web.jpg?format=2500w)
 
 + The Middlemarch gossip mill
 
@@ -208,9 +208,11 @@
 
   > That is the nonsense you wise men talk! How can she choose if she has no variety to choose from? A woman's choice usually means taking the only man she can get. Mark my words, Humphrey. If her friends don't exert themselves, there will be a worse business than the Casaubon business yet. (538)
 
-+ Eroticism in *Middlemarch*. Does this detract from the realist novel? How might we compare instances of eroticism in other novels we’ve read this semester?
++ Eroticism in *Middlemarch*. 
 
- + Kurnick — desire/Rome
+ + Does this detract from the realist novel? How might we compare instances of eroticism in other novels we’ve read this semester?
+
+ + [Kurnick](https://github.com/vic-sem-2016/outlines/blob/master/week_13_outline.md#kurnick) — desire/Rome
 
   > It had seemed to him as if they were like two creatures slowly turning to marble in each other’s presence, while their hearts were conscious and their eyes were yearning. (543)
 
@@ -235,7 +237,7 @@
  + relationship to chapter? 
 
 
-### Throwback to last week
+#### Throwback to last week
 
 + Returning to Kurnick, now that we’ve read the ending…is Dorothea really a failed heroine? Why did she fail?
 
@@ -264,7 +266,7 @@
 + Farebrother? Fred?
 
 
-### *Grand* Wrap-up
+#### *Grand* Wrap-up
 
 + we <3 seminar let’s think about all the wonderful things we’ve learned :) 
 
