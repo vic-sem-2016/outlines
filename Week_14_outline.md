@@ -30,7 +30,7 @@
  	Her finely touched spirit had still its fine issues, though they were not widely visible. Her full nature, like that river of which Cyrus broke the strength, spent itself in channels which had no great name on the earth. But the effect of her being on those around her was incalculably diffusive: for the growing good of the world is partly dependent on unhistoric acts; and that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs. (838)
 
 + Semiotics / [Barthes discussion from week 2](https://github.com/vic-sem-2016/outlines/blob/master/week_2_outline.md#barthes-1968----anna-summarized) (Barthes from week TWO LINKS - reality effect and preparation)
-[Barthes - Preparation](https://www.dropbox.com/home/Vic_sem_2016/Week%209/week%209%20reading?preview=Barthes%2C+Preparation%2C+part+1.pdf) [and](https://www.dropbox.com/home/Vic_sem_2016/Week%209/week%209%20reading?preview=Barthes%2C+Preparation%2C+part+2.pdf) 
+[Barthes - Preparation part I](https://github.com/adriobi/firstrepo/blob/master/Barthes%2C%20Preparation%2C%20part%201.pdf) and [II](https://github.com/adriobi/firstrepo/blob/master/Barthes%2C%20Preparation%2C%20part%202.pdf) 
 
 + [Week 13 on Lydgate](https://github.com/vic-sem-2016/outlines/blob/master/week_13_outline.md#literacy-language-representation--relationship-to-knowledge)
 
@@ -99,7 +99,7 @@
 
 + Mr. Brooke’s speech (502-503)
 
-+ Denotative [like Freedgood and Nithya’s summary from Week 12?](https://www.dropbox.com/home/Vic_sem_2016/week%2012/week%2012%20writing?preview=Freedgood_Schmitt_synopsis_Nithya.pdf)
++ Denotative [like Freedgood and Nithya’s summary from Week 12?](https://github.com/adriobi/firstrepo/blob/master/Freedgood_Schmitt_synopsis_Nithya.pdf)
 
 #### Realism
 
@@ -266,7 +266,7 @@
 + Farebrother? Fred?
 
 
-#### *Grand* Wrap-up
+#### **Grand** Wrap-up
 
 + we <3 seminar let’s think about all the wonderful things we’ve learned :) 
 
