@@ -34,7 +34,9 @@ Prof. Buurma's presentation (15min)
 
 ### Institutional v. Personal Standards of Notetaking
 Blair
+
 “From the Middle Ages, working papers on parchment could well have endured down to the present.  But it is more difficult in a world of manuscripts than in the era of printing to evaluate what constitutes a note -- that is, a piece of writing not meant for circulation but for private use, say, as prepatory toward a finished work.” (67)
+
 “Scholars have noted a general trend toward an increased emphasis on personal reflections in note-taking starting especially in the eighteenth century.” (72)
 
 
