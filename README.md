@@ -1,0 +1,1 @@
+Discussion outlines created by members of the 2016 Victorian Novel Research Seminar at Swarthmore College.
